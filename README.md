@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/jeffrey-agyepong/Clipboard-Landing-Page-
-- Live Site URL: https://clipboard-landing-ja.netlify.app/
+- Solution URL: [Solution url](https://github.com/jeffrey-agyepong/Clipboard-Landing-Page-)
+- Live Site URL: [Live site url](https://clipboard-landing-ja.netlify.app/)
 
 ## My process
 
@@ -47,8 +47,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-
-- Website - https://conciseweb.netlify.app/
 
 - Frontend Mentor - [@jeffrey-agyepong](https://www.frontendmentor.io/profile/jeffrey-agyepong/)
 
