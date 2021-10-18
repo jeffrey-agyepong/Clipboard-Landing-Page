@@ -120,6 +120,14 @@ button {
 }
 .social_pad{
   padding: 40px 0 0 60px;
+  
+}
+
+@media (min-width: 992px) {
+  html, body{
+    width: 100%;
+  }
+  
 }
 
 @media (max-width: 600px) {
