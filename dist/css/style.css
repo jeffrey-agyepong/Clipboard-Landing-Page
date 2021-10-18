@@ -1,3 +1,13 @@
+@font-face {
+  font-family: BaiJamjuree L;
+  src: url(../fonts/BaiJamjuree-Light.ttf);
+}
+
+@font-face {
+  font-family: BaiJamjuree M;
+  src: url(../fonts/BaiJamjuree-Medium.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -17,10 +27,12 @@ body {
   margin: 0px auto;
   overflow-x: visible;
   font-size: 18px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: BaiJamjuree L;
 }
 
+h1, h2, h3{
+  font-family: BaiJamjuree M;
+}
 .header {
   margin: 0;
   padding: 0;
@@ -104,7 +116,7 @@ a:hover{
   background: hsl(233, 100%, 69%)
 }
 .gray{
-    background: hsl(201, 11%, 66%);
+ background:  hsla(202.1, 11%, 66.1%, 0.32);
 }
 
 .flex {
@@ -126,6 +138,17 @@ a:hover{
 .social_pad{
   padding: 40px 0 0 60px;
   
+}
+
+.footer_links{
+  padding: 20px;
+  
+}
+
+.footer_links a{
+  color: black;
+  font-family: BaiJamjuree L;
+  text-decoration: none;
 }
 
 @media (min-width: 992px) {
