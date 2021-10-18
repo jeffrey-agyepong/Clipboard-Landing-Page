@@ -52,4 +52,7 @@ Users should be able to:
 
   
 
+## Acknowledgments
+
+[kzaleskaa](https://github.com/kzaleskaa/landing-page-examples/commits?author=kzaleskaa)
 
