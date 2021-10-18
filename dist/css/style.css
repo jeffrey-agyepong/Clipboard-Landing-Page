@@ -90,7 +90,12 @@ button {
   width: 200px;
   height: 50px;
 }
-
+button:hover{
+  background-color: brown;
+}
+a:hover{
+  background-color: rgb(64, 192, 132);
+}
 .green {
   background: hsl(171, 66%, 44%);
 }
@@ -127,7 +132,7 @@ button {
   html, body{
     width: 100%;
   }
-  
+
 }
 
 @media (max-width: 600px) {
